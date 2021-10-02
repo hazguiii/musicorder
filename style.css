@@ -31,6 +31,9 @@ body{
     justify-content: center;
     align-items: center;
 }
+.price{
+    color: var(--Desaturated_blue);
+}
 .main-content{
     background-color: white;
     height: fit-content;
@@ -112,9 +115,6 @@ body{
 }
 a,button{
     cursor: pointer;
-}
-.price{
-    color: var(--Desaturated_blue);
 }
 
 
