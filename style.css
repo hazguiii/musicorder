@@ -113,6 +113,9 @@ body{
 a,button{
     cursor: pointer;
 }
+.price{
+    color: var(--Desaturated_blue);
+}
 
 
 
